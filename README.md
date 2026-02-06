@@ -78,3 +78,8 @@ The diagram below represents the **high-level ontology and system relationships*
 - This repository represents **conceptual design**, not a deployed system
 
 ---
+
+## Possible Future Extensions
+- Neo4j schema instantiation
+- Graph-based maintenance query scenarios
+- Integration with GraphRAG-style retrieval
