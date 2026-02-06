@@ -33,7 +33,7 @@ This step enabled rapid iteration and refinement before committing to a structur
 
 > Early-stage paper sketches were used to explore entity grouping and relationship direction before formalizing the ontology. Selected sketches are included in the repository as design artifacts, not finalized models.
 
-![Preliminary_Entity_Sketch](preliminary_entity_sketch.jpeg)
+![Preliminary_Entity_Sketch](/preliminary_entity_sketch.png)
 
 ---
 
