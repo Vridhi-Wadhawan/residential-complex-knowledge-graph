@@ -33,6 +33,12 @@ It does not include a Neo4j instance, real-time IoT data ingestion, or system de
 
 ---
 
+## Design Documentation
+
+- [Design Approach, Scope, and Assumptions](design_approach.md)
+
+---
+
 ## Knowledge Graph Scope
 
 The ontology captures four core dimensions of the residential ecosystem:
